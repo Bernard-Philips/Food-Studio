@@ -13,7 +13,8 @@ This is a sleek, modern restaurant website built with clean HTML, CSS, and JavaS
 - Responsive Design
 - Scroll animations & transitions
 - Custom layout & UI components
-
+  
+## View live website https://bernard-philips.github.io/Food-Studio/
 ## ✉️ Contact
 
 - **Email:** philipsbernard38@gmail.com  
