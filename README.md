@@ -22,7 +22,3 @@ This is a sleek, modern restaurant website built with clean HTML, CSS, and JavaS
 
 ---
 
-> Designed and developed with passion by **Bernard Philips**
-git remote add originhttps://github.com/Bernard-Philips/portfolio.git
-git branch -M main
-git push -u origin main
